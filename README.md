@@ -97,15 +97,6 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 
 ---
 
-## 📝 How to Run
-
-1. Clone the repo
-2. Open each folder (`.xcodeproj` or `.xcodeworkspace`) in **Xcode**
-3. Select an iOS simulator (iPhone 14 or later recommended)
-4. Run the app using `Cmd + R`
-
----
-
 ## 👨‍💼 Author
 
 **Mahesh Reddy Maram**  
@@ -121,6 +112,3 @@ iOS Developer | Swift & SwiftUI Enthusiast
 - You are free to fork, reuse, or improve these challenges
 
 ---
-
-⭐️ _If you found this useful, give it a star on GitHub!_
-
