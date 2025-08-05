@@ -47,15 +47,6 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 - **Deployment Target:** iOS 16+
 
 ---
-
-## 📁 Folder Structure
-
-
-
-
-
----
-
 ## 📝 How to Run
 
 1. Clone the repo
@@ -69,7 +60,7 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 
 **Mahesh Reddy Maram**  
 iOS Developer | Swift & SwiftUI Enthusiast  
-📧 [Email or LinkedIn/GitHub link – *optional if you'd like to add*]
+📧 [Email or LinkedIn/GitHub link – maheshreddy.maram23@gmail.com]
 
 ---
 
