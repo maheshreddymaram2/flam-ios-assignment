@@ -60,7 +60,7 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 
 **Mahesh Reddy Maram**  
 iOS Developer | Swift & SwiftUI Enthusiast  
-📧 [Email or LinkedIn/GitHub link – maheshreddy.maram23@gmail.com]
+📧 [LinkedIn – https://www.linkedin.com/in/venkata-mahesh-reddy-maram-28039626b/]
 
 ---
 
