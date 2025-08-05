@@ -17,7 +17,27 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 - Smooth SwiftUI layout for browsing and playback
 
 ### 📸 Screenshots:
-- Located in: `Screenshots_challenge1/`
+
+#### 🧩 Main File – `main.swift`
+![Main Swift](Screenshots_challenge1/01_main_swift.png)
+
+#### 🎧 Mock Audio Source – `MockAudioSource.swift`
+![Mock Audio Source](Screenshots_challenge1/02_mock_audio_source.png)
+
+#### 🎼 Player Service – `PlayerService.swift`
+![Player Service](Screenshots_challenge1/03_player_service.png)
+
+#### 🔁 Mock Player Service – `MockPlayerService.swift`
+![Mock Player Service](Screenshots_challenge1/04_mock_player_service.png)
+
+#### 🧪 Mock Audio Source Tests
+![Mock Audio Source Tests](Screenshots_challenge1/05_mock_audio_source_tests.png)
+
+#### 💻 Terminal Output
+![Terminal Output](Screenshots_challenge1/06_terminal_output.png)
+
+#### 📂 Project Directory Structure
+![Project Directory](Screenshots_challenge1/07_project_directory.png)
 
 ---
 
@@ -34,7 +54,36 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 - Clean component-based SwiftUI architecture
 
 ### 📸 Screenshots:
-- Located in: `Screenshots_challenge3/`
+
+#### 🧾 Post Model – `Post.swift`
+![Post](Screenshots_challenge3/1_Post_swift.png)
+
+#### 🌐 Feed Service Protocol – `FeedServiceProtocol.swift`
+![FeedServiceProtocol](Screenshots_challenge3/2_FeedServiceProtocol_swift.png)
+
+#### 📊 View Model – `FeedViewModel.swift`
+![FeedViewModel](Screenshots_challenge3/3_FeedViewModel_swift.png)
+
+#### 🖼️ Feed View – `FeedView.swift`
+![FeedView](Screenshots_challenge3/4_FeedView_swift.png)
+
+#### 🧩 Main Entry Point – `main.swift`
+![Main](Screenshots_challenge3/5_Main_swift.png)
+
+#### 🎨 Console Color Utility – `ConsoleColor.swift`
+![ConsoleColor](Screenshots_challenge3/6_ConsoleColor_swift.png)
+
+#### 🧪 ViewModel Unit Tests – `FeedViewModelTests.swift`
+![FeedViewModelTests](Screenshots_challenge3/7_FeedViewModelTests_swift.png)
+
+#### 📦 Swift Package Manifest – `Package.swift`
+![Package.swift](Screenshots_challenge3/8_Package_swift.png)
+
+#### 💻 Terminal Output
+![Terminal Output](Screenshots_challenge3/9_terminal_output.png)
+
+#### 📂 Project Directory Structure
+![Project Directory](Screenshots_challenge3/10_Project_Directory.png)
 
 ---
 
@@ -47,6 +96,7 @@ This repository contains two Swift-based iOS mini-projects developed using **Swi
 - **Deployment Target:** iOS 16+
 
 ---
+
 ## 📝 How to Run
 
 1. Clone the repo
@@ -73,3 +123,4 @@ iOS Developer | Swift & SwiftUI Enthusiast
 ---
 
 ⭐️ _If you found this useful, give it a star on GitHub!_
+
